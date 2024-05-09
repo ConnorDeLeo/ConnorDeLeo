@@ -38,3 +38,8 @@ Engineering based projects:
 - Project Drifttt: My group's senior capstone project for EDD. View the **very** incomplete project and its even more incomplete site here: https://sites.google.com/lbschools.net/capstonewebsite/home 
 - Electric Racing GoKart: Using an existing frame, my team welded an extension piece (so I can fit as I am 6'10" / 2.0828m tall), built a new hydraulic braking system, mounted a new 10,000 Watt engine with 4 LiIon batteries from a Nissan Leaf. Kart is in a drivable state, with a lot of bugs to fix. It will not be racing in UCI's electric kart race due to a probable failure for safety inspection.
 - SFI 25.1k Spec Racing Chassis: A racing chassis for a 1989 Mazda NA Miata, powered by a large Chevy LS. The frame was designed using the CAD softwares `Fusion360`, `Inventor`, and `Bend-Tech`. Uses a range of 4130 Chromoly Steel tubing, with the primary size being 1.625 inches in diameter with a 0.083 inch wall thickness.
+
+## Hardware / Operating Systems
+Desktop: Omen Obelisk prebuilt, upgraded with a supplementary 2tb SSD running Windows 10
+
+Laptop: ROG Zephyrus running the Arch-based distro Crystal Linux
