@@ -23,6 +23,10 @@ Math Courses:
 - MATH70: Calculus 2
 
 *some classes taken at Sato Academy of Math & Science transferred over to Long Beach City College
+
+## Work Experience
+Balto Performance: A high performance automotive tuning shop. I worked as a chassis design engineer, occasionally doing video/photo editing and physically working on cars.
+
 ## Projects
 A list of projects I am currently working on or have already completed that are the most important to me.
 
