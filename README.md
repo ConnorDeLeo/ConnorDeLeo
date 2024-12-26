@@ -15,12 +15,14 @@ Science Courses:
 - Human Body Systems*
 - CS11: Introduction to Computer Science C++
 - CHEM2: Elementary Chemistry
+- CHEM1A: General Chemistry
 
 Math Courses:
 - Algebra II*
 - Honors Precalculus*
 - AP Calculus AB*
 - MATH70: Calculus 2
+- MATH80: Calculus 3
 
 *some classes taken at Sato Academy of Math & Science transferred over to Long Beach City College
 
