@@ -16,6 +16,7 @@ Science Courses:
 - CS11: Introduction to Computer Science C++
 - CHEM2: Elementary Chemistry
 - CHEM1A: General Chemistry
+- PHYS3A: Calc-Based Physics: Mechanics
 
 Math Courses:
 - Algebra II*
@@ -28,6 +29,7 @@ Math Courses:
 
 ## Work Experience
 Balto Performance: A high performance automotive tuning shop. I worked as a chassis design engineer, occasionally doing video/photo editing and physically working on cars.
+LBCC Math Success Center:
 
 ## Projects
 A list of projects I am currently working on or have already completed that are the most important to me.
