@@ -7,7 +7,7 @@
     💼 Calculus Tutor - Long Beach City College
     💻 Windows 10 & Arch Linux
     📚 C++ & Python
-    🎓 Mechanical Engineering - Long Beach City College
+    🎓 Mechanical Engineering - University of California: Irvine
 </pre>
 </div>
 
