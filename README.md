@@ -17,6 +17,7 @@
 <pre>
     📂 Projects: https://connordeleo.github.io/readme/projects
     🧮 Classes: https://connordeleo.github.io/readme/classes
+    📛 Certifications: https://connordeleo.github.io/readme/certificates
 </pre>
 </div>
 
