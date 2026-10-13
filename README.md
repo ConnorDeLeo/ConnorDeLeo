@@ -17,7 +17,6 @@
 <pre>
     📂 Projects: https://connordeleo.github.io/readme/projects
     🧮 Classes: https://connordeleo.github.io/readme/classes
-    📛 Certifications: https://connordeleo.github.io/readme/certificates
 </pre>
 </div>
 
@@ -38,6 +37,19 @@
 <pre>
     🎏 Photo Gallery: https://connordeleo.github.io/photos
 </pre>
+</div>
+
+![Voiture tuning](assets/mugen-nsx-calsonic-r34.gif)
+
+<div align="center">
+<pre>
+Certifcations
+</pre>
+</div>
+
+<div align="left">
+<img src="assets/SOLIDWORKS DESIGN - ASSOCIATE.png" alt="CSWA" width="25%">
+<img src="assets/nar.png" alt="HPR Level 1" width="25%">
 </div>
 
 </div>
